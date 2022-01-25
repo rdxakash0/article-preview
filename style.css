@@ -12,5 +12,65 @@ body{
     margin: 0;
 }
 .posts{
-   background-color: hsl(217, 19%, 35%);
+   background-color: hsl(212, 23%, 69%);
+   padding: 250px;
+   
+}
+article{
+    background-color:hsl(210, 46%, 95%) ;
+    height: 300px;
+    width: 800px;
+    border-radius: 10px;
+}
+.img1{
+    height: 300px;
+    width: 300px;
+    display: block;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.div1{
+    float: left;
+}
+
+.div2{
+    padding: 20px;
+    
+    margin: 25px;
+    
+
+    
+}
+.div-group{
+     text-align: center;
+    
+}
+h2{
+   
+}
+
+.img2{
+    width: 70px;
+    height: 70px;
+    border-radius: 45px;
+    padding: 10px;
+}
+.div3{
+    float: left;
+    
+}
+.div4{
+    float: right;
+   
+}
+.div5{
+    float: right;
+    padding: 40px;
+     
+}
+.img3{
+    height: 30px;
+    width: 30px;
+    background-color:hsl(212, 23%, 69%) ;
+    border-radius: 40%;
 }
