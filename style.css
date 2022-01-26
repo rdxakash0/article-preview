@@ -21,6 +21,7 @@ article{
     height: 300px;
     width: 800px;
     border-radius: 10px;
+    margin-left: 0px;
 }
 .img1{
     height: 300px;
@@ -31,19 +32,28 @@ article{
 }
 .div1{
     float: left;
+    display: inline;
+    position: relative;
 }
 
 .div2{
-    padding: 20px;
     
-    margin: 25px;
+    
+    margin:25px;
+    display: inline;
+    
+    height: 250px;
+    width: 450px;
+    position:absolute;
+
+    
     
 
     
 }
 .div-group{
      text-align: center;
-    
+    display: inline;
 }
 h2{
    
